@@ -44,13 +44,13 @@ detection.
 malware's resilience and user-friendliness for the attacker.
 
 ## Intended Purpose:
-### My analysis points towards the malware's design as an information-
-stealing tool, quietly extracting data while maintaining persistent
+### My analysis points towards the malware's design as an information-stealing 
+tool, quietly extracting data while maintaining persistent
 access.
 
 # Conclusion
 This analysis highlights the sophistication and potential danger
-of WebC2-GreenCat-2 as an information-stealing backdoor. Its ability
+of `WebC2-GreenCat-2` as an information-stealing backdoor. Its ability
 to blend in with normal traffic and robust C2 infrastructure,
 coupled with a variety of capabilities, underscores its role as a
 significant cybersecurity threat. 

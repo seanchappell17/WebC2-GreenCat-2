@@ -1,0 +1,13 @@
+{
+  "version": "0.2.0",
+  "configurations": [
+    {
+      "name": "C/C++ Runner: Debug Session",
+      "type": "lldb",
+      "request": "launch",
+      "args": [],
+      "cwd": "/Users/seanchappell/Library/CloudStorage/OneDrive-Personal/College/LSU/Spring 2023/CSC4360/Assignments/WG2/WebC2-GreenCat-2/WebC2-GreenCat-2",
+      "program": "/Users/seanchappell/Library/CloudStorage/OneDrive-Personal/College/LSU/Spring 2023/CSC4360/Assignments/WG2/WebC2-GreenCat-2/WebC2-GreenCat-2/build/Debug/outDebug"
+    }
+  ]
+}
