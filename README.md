@@ -44,8 +44,7 @@ detection.
 malware's resilience and user-friendliness for the attacker.
 
 ## Intended Purpose:
-#### My analysis points towards the malware's design as an information-stealing tool, quietly extracting data while maintaining persistent
-access.
+#### My analysis points towards the malware's design as an information-stealing tool, quietly extracting data while maintaining persistent access.
 
 # Conclusion
 This analysis highlights the sophistication and potential danger
